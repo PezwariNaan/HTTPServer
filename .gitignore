@@ -2,3 +2,4 @@
 Cargo.lock
 notes.txt
 .gitignore
+/logs
